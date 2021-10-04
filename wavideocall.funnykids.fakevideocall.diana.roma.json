@@ -1,0 +1,87 @@
+{
+  "Ads": [
+      {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "Hosting",
+      "high_paying_keyword_2": "insurance",
+      "high_paying_keyword_3": "Trading",
+      "high_paying_keyword_4": "donate",
+      "high_paying_keyword_5": "loan",
+	  "high_paying_keyword_6": "bank",
+      "high_paying_keyword_7": "bitcoin",
+      "high_paying_keyword_8": "cryptocurency",
+      "high_paying_keyword_9": "lawyer",
+      "high_paying_keyword_10": "car insurance",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+{
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Funny Kids",
+      "image":"file:///android_asset/1.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.funnykids.fakevideocall.diana.roma"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Funny Kids 1",
+      "image_url":"file:///android_asset/1.png",
+      "video_url":"footbal1",
+      "voice_url":"baby_1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Funny Kids 2",
+      "image_url":"file:///android_asset/2.png",
+      "video_url":"footbal2",
+      "voice_url":"baby_2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Funny Kids 3",
+      "image_url":"file:///android_asset/3.png",
+      "video_url":"footbal3",
+      "voice_url":"baby_1.mp3"
+    },
+    {
+      "id":4,
+      "name":"Funny Kids 4",
+      "image_url":"file:///android_asset/4.png",
+      "video_url":"footbal4",
+      "voice_url":"baby_2.mp3"
+    },
+    {
+      "id":5,
+      "name":"Funny Kids 5",
+      "image_url":"file:///android_asset/5.png",
+      "video_url":"footbal5",
+      "voice_url":"baby_1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Funny Kids 6",
+      "image_url":"file:///android_asset/6.png",
+      "video_url":"footbal6",
+      "voice_url":"baby_2.mp3"
+    }
+  ]
+
+}

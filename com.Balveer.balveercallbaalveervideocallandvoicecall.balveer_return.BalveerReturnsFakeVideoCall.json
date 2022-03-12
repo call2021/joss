@@ -60,42 +60,42 @@
       "id":1,
       "name":"Balveer Dev Joshi 1",
       "image_url":"file:///android_asset/BalveerDevoshiballlverrgambar1.png",
-      "video_url":"BalveerDevoshiballlverrvideo1",
+      "video_url":"ba1",
       "voice_url":"BalveerDevoshiballlverrsuaramp1.mp3"
     },
     {
       "id":2,
       "name":"Balveer Dev Joshi 2",
       "image_url":"file:///android_asset/BalveerDevoshiballlverrgambar2.png",
-      "video_url":"BalveerDevoshiballlverrvideo2",
+      "video_url":"ba2",
       "voice_url":"BalveerDevoshiballlverrsuaramp2.mp3"
     },
     {
       "id":3,
       "name":"Balveer Dev Joshi 3",
       "image_url":"file:///android_asset/BalveerDevoshiballlverrgambar3.png",
-      "video_url":"BalveerDevoshiballlverrvideo3",
+      "video_url":"ba3",
       "voice_url":"BalveerDevoshiballlverrsuaramp1.mp3"
     },
     {
       "id":4,
       "name":"Balveer Dev Joshi 4",
       "image_url":"file:///android_asset/BalveerDevoshiballlverrgambar4.png",
-      "video_url":"BalveerDevoshiballlverrvideo1",
+      "video_url":"ba1",
       "voice_url":"BalveerDevoshiballlverrsuaramp2.mp3"
     },
     {
       "id":5,
       "name":"Balveer Dev Joshi 5",
       "image_url":"file:///android_asset/BalveerDevoshiballlverrgambar5.png",
-      "video_url":"BalveerDevoshiballlverrvideo2",
+      "video_url":"ba2",
       "voice_url":"BalveerDevoshiballlverrsuaramp1.mp3"
     },
     {
       "id":6,
       "name":"Balveer Dev Joshi 6",
       "image_url":"file:///android_asset/BalveerDevoshiballlverrgambar6.png",
-      "video_url":"BalveerDevoshiballlverrvideo3",
+      "video_url":"ba3",
       "voice_url":"BalveerDevoshiballlverrsuaramp2.mp3"
     }
   ]
